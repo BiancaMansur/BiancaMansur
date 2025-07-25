@@ -9,6 +9,16 @@
 Olá! Me chamo **Bianca Mansur**, sou formada em **Engenharia de Produção** e atualmente curso **Sistemas de Informação** no **CEFET-RJ**.  
 Tenho grande interesse por **dados, inteligência artificial, desenvolvimento de software e gerenciamento de projetos**.
 
+### 🛠️ Tecnologias e Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
 ### 🚀 Atualmente estou estudando:
 - Programação Orientada a Objetos (**Java, C++, Python**)
 - Análise e visualização de dados
@@ -47,6 +57,15 @@ I’m passionate about **data, artificial intelligence, software development, an
 ### 📫 Let’s connect:
 - [LinkedIn](https://www.linkedin.com/in/BiancaMansur)  
 - Email: bianca.mansur@aluno.cefet-rj.br
+
+---
+### ⚙️ Estatísticas do GitHub
+
+![Bianca GitHub Stats](https://github-readme-stats.vercel.app/api?username=biancamansur&show_icons=true&theme=github_dark)
+
+### 📌 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancamansur&layout=compact&theme=github_dark)
 
 ---
 
